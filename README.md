@@ -1,1 +1,1 @@
-# alx-low_level_programming
+This is a repository for learning C programming in ALX SWE
