@@ -1,1 +1,1 @@
-This is a repository for learning C programming in ALX SWE
+repository for learning c in ALX
