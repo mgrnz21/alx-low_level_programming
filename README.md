@@ -1,1 +1,1 @@
-repository for learning c in ALX
+repository for all c programming
